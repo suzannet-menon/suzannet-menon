@@ -1,5 +1,5 @@
 Hi, I'm Suzanne ! 
-💚 I am learning and building tech for social impact
+I am learning and building tech for social impact
 
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
