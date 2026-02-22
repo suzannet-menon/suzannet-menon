@@ -1,4 +1,4 @@
-# Hi, I'm Suzanne! 👋
+Hi, I'm Suzanne !
 💚 Building tech for social impact  
 
 ## 🛠️ Skills
