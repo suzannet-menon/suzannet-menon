@@ -1,15 +1,82 @@
-Hi, I'm Suzanne ! 
-I am learning and building tech for social impact
+# Hi, I'm Suzanne !
 
-## Skills:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7\&lines=Software+Engineer;Frontend+%2F+Full-Stack;Building+Real+World+Systems)
+
+**Aspiring Software Engineer focused on Frontend and Full-Stack development, working toward roles like Forward Deployed Engineer.**
+
+I’m building a strong foundation in both frontend and backend systems, with a focus on understanding how applications work end-to-end and improving problem-solving through consistent practice.
+
+---
+
+## What I’m Working On
+
+* Strengthening backend fundamentals (APIs, request/response lifecycle, data flow)
+* Building a **full-stack project** (authentication + CRUD + deployment)
+* Practicing **Data Structures & Algorithms** consistently
+* Learning **Java** and improving problem-solving with **C++**
+
+---
+
+## Tech Stack
+
+**Languages:**
+C++, Java, JavaScript
+
+**Frontend:**
+HTML, CSS, React
+
+**Backend (Learning):**
+Node.js, Express, REST APIs
+
+**Tools & Concepts:**
+Git, GitHub, debugging, API design, basic system design
+
+---
+
+## Projects
+
+### 🔹 TimeMax – Timetable & Productivity App
+Built a web application that generates structured timetables based on user tasks, deadlines, and priorities.
+
+**Tech:** React, JavaScript  
+**Focus:** UI design, state management, user flow, API integration, fallback handling  
+
+> Currently refining the application by improving backend integration and data persistence.
+
+
+### 🔹 Care In Code – Decentralized Health Records System
+Built a prototype for a decentralized health records system where users retain ownership of their data and AI generates insights.
+
+**Tech:** React, Python, Javascript
+**Focus:** frontend-backend integration, rapid prototyping under time constraints  
+
+> Currently revisiting the system to improve structure and explore better data handling.
+
+
+### 🔹 Code with Care – AI Health Risk Assessment System
+Developed a web-based system to assess health risks based on user inputs and provide early indications for lifestyle-related diseases.
+
+**Tech:** React,Python, Javascript
+**Focus:** problem modeling, data input handling, health risk evaluation logic  
+
+> Currently refining the model and improving overall system design and usability.
+---
+
+## Direction
+
+Working toward building complete, end-to-end applications and developing a deeper understanding of backend systems and data flow.
+Interested in roles that involve real-world problem solving, product thinking, and engineering ownership.
+
+---
+
+## Connect With Me
+
+* GitHub: https://github.com/suzannet-menon
+* LinkedIn: https://www.linkedin.com/in/suzanne-daniel-thomas-313ba4371/
+* Twitter/X: https://x.com/Suzanne__e
+
+---
+
+## Current Focus
+
+Frontend → Full-Stack → Software Engineering
