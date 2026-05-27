@@ -2,21 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7\&lines=Software+Engineer;Frontend+%2F+Full-Stack;Building+Real+World+Systems)
 
-**Aspiring Software Engineer focused on Frontend and Full-Stack development, working toward roles like Forward Deployed Engineer.**
-
 I’m building a strong foundation in both frontend and backend systems, with a focus on understanding how applications work end-to-end and improving problem-solving through consistent practice.
-
-## What I’m Working On
-
-* Strengthening backend fundamentals (APIs, request/response lifecycle, data flow)
-* Building a **full-stack project** (authentication + CRUD + deployment)
-* Practicing **Data Structures & Algorithms** consistently
-* Learning **Java** and improving problem-solving with **C++**
 
 ## Tech Stack
 
 **Languages:**
-C++, Java, JavaScript
+C++, Python, JavaScript
 
 **Frontend:**
 HTML, CSS, React
@@ -31,7 +22,7 @@ Git, GitHub, debugging, API design, basic system design
 
 ### 🔹 TimeMax – Timetable & Productivity App
 
-Built a web application that generates structured timetables based on user tasks, deadlines, and priorities.
+Building a web application that generates structured timetables based on user tasks, deadlines, and priorities.
 
 **Tech:** React, JavaScript
 **Focus:** UI design, state management, user flow, API integration, fallback handling
