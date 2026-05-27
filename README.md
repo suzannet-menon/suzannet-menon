@@ -57,7 +57,3 @@ Interested in roles that involve real-world problem solving, product thinking, a
 * GitHub: https://github.com/suzannet-menon
 * LinkedIn: https://www.linkedin.com/in/suzanne-daniel-thomas-313ba4371/
 * Twitter/X: https://x.com/Suzanne__e
-
-## Current Focus
-
-Frontend → Full-Stack → Software Engineering
