@@ -29,7 +29,7 @@ Building a web application that generates structured timetables based on user ta
 
 > Currently refining the application by improving backend integration and data persistence.
 
-### 🔹 Care In Code – Decentralized Health Records System
+### 🔹 CodewithCare – Decentralized Health Records System
 
 Built a prototype for a decentralized health records system where users retain ownership of their data and AI generates insights.
 
@@ -38,7 +38,7 @@ Built a prototype for a decentralized health records system where users retain o
 
 > Currently revisiting the system to improve structure and explore better data handling.
 
-### 🔹 CareInCare – AI Health Risk Assessment System
+### 🔹 CareInCode – AI Health Risk Assessment System
 
 Developed a web-based system to assess health risks based on user inputs and provide early indications for lifestyle-related diseases.
 
